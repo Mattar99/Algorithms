@@ -1,0 +1,2 @@
+Sum of nth Fibonacci series = F(n+2) -1
+Then pisano period of module 10 = let n+2 mod (60) = m then find F(m)mod(10)-1 
